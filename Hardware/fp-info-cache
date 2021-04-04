@@ -1,4 +1,4 @@
-15963100983999646
+15976041299271646
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49091,6 +49091,13 @@ Yellow 5381 Series LED
 2
 2
 Micro-Footprint
+1042-SMD
+
+
+0
+2
+2
+Micro-Footprint
 3306K-THRU
 
 
@@ -49104,6 +49111,13 @@ Micro-Footprint
 0
 4
 4
+Micro-Footprint
+ADP1612-8MSOP
+
+
+0
+8
+8
 Micro-Footprint
 CAP0402
 
@@ -49126,7 +49140,21 @@ CAP0805
 2
 2
 Micro-Footprint
+ECX1210-2SMD
+
+
+0
+2
+2
+Micro-Footprint
 FER0603
+
+
+0
+2
+2
+Micro-Footprint
+L101011-THRU
 
 
 0
@@ -49154,6 +49182,20 @@ NXV75UPR-SOT233
 3
 3
 Micro-Footprint
+PIC16F886-28SOIC
+
+
+0
+0
+0
+Micro-Footprint
+PTS526-4SMD
+
+
+0
+4
+4
+Micro-Footprint
 RES0603
 
 
@@ -49168,12 +49210,26 @@ SZMMSZ9-SOD123
 2
 2
 Micro-Footprint
+THRU-250-STR-5P
+
+
+0
+5
+5
+Micro-Footprint
 THRU-254-RHT-6P
 
 
 0
+6
+6
+Micro-Footprint
+THRU-254-STR-6P
+
+
 0
-0
+6
+6
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
