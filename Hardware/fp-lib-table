@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Micro-Footprint)(type KiCad)(uri ${KIPRJMOD}/Micro-Footprint.pretty)(options "")(descr ""))
+  (lib (name CAP0603)(type KiCad)(uri ${KIPRJMOD}/CAP0603.pretty)(options "")(descr ""))
+)
