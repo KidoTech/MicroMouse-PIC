@@ -1,13 +1,14 @@
 EESchema Schematic File Version 4
-EELAYER 30 0
+LIBS:MicroMouse-cache
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "MicroMouse Mainboard with PIC16F886"
-Date "2021-04-11"
-Rev "1.00"
-Comp "KidoTech"
+Title ""
+Date ""
+Rev ""
+Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
