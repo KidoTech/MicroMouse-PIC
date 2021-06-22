@@ -1,4 +1,4 @@
-(module THRU-254-STR-4P (layer F.Cu) (tedit 60CF331F)
+(module THRU-254-STR-4P (layer F.Cu) (tedit 60D1DF3F)
   (fp_text reference REF** (at 0.62 2.24) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -23,7 +23,7 @@
     (solder_mask_margin 0.05))
   (pad 4 thru_hole circle (at 7.62 0) (size 1.5 1.5) (drill 1.02) (layers *.Cu *.Mask)
     (solder_mask_margin 0.05))
-  (model "/Users/alanlow/Downloads/Pin Header 1x4 TH Pitch 2.54mm.stp"
+  (model "${MICEPROJ}/Pin Header 1x4 TH Pitch 2.54mm.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

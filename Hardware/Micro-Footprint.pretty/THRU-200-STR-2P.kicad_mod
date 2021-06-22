@@ -1,4 +1,4 @@
-(module THRU-200-STR-2P (layer F.Cu) (tedit 60CF2F96)
+(module THRU-200-STR-2P (layer F.Cu) (tedit 60D1DEE5)
   (fp_text reference REF** (at -3.4 2.96) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -16,8 +16,8 @@
     (solder_mask_margin 0.05))
   (pad 2 thru_hole circle (at -2 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask)
     (solder_mask_margin 0.05))
-  (model "/Users/alanlow/Downloads/B2B-PH-K-S(LF)(SN)--3DModel-STEP-56544.step"
-    (offset (xyz -1 0.5 3))
+  (model "${MICEPROJ}/B2B-PH-K-S(LF)(SN)--3DModel-STEP-56544.step"
+    (offset (xyz -1 0.5 3.02))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
