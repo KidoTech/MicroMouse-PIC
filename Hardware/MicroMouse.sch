@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:MicroMouse-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -1927,8 +1926,6 @@ Wire Wire Line
 	3975 5425 4075 5425
 NoConn ~ 3250 5025
 NoConn ~ 3250 5525
-NoConn ~ 975  600 
-NoConn ~ 675  1750
 $Comp
 L power:+5P #PWR0101
 U 1 1 6123ECB2
