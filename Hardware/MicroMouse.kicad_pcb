@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.508)
+    (last_trace_width 0.127)
     (user_trace_width 0.2)
     (user_trace_width 0.254)
     (user_trace_width 0.381)
@@ -72,7 +72,7 @@
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
-      (usegerberattributes false)
+      (usegerberattributes true)
       (usegerberadvancedattributes false)
       (creategerberjobfile false)
       (excludeedgelayer true)
@@ -93,9 +93,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "Gerber/"))
   )
 
   (net 0 "")
@@ -2397,8 +2397,6 @@
   (gr_line (start 130 70) (end 130 110) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 70 70) (end 130 70) (layer Edge.Cuts) (width 0.1))
 
-  (segment (start 104.02 91.67) (end 100.02 91.67) (width 0.254) (layer B.Cu) (net 8) (tstamp 61D5674F))
-  (segment (start 104 96.75) (end 100 96.75) (width 0.254) (layer B.Cu) (net 8))
   (via (at 126.27 99.93) (size 0.6) (drill 0.3) (layers F.Cu B.Cu) (net 1) (tstamp 61D53F9B) (status 40000))
   (via (at 105.1 95.56) (size 0.6) (drill 0.3) (layers F.Cu B.Cu) (net 1) (tstamp 61D5222A) (status 40000))
   (via (at 103.34 101.2) (size 0.6) (drill 0.3) (layers F.Cu B.Cu) (net 1) (tstamp 61D520AB))
@@ -2732,6 +2730,8 @@
   (segment (start 91.67876 87.86368) (end 91.67876 86.80094) (width 0.508) (layer F.Cu) (net 7))
   (segment (start 90.71864 86.80834) (end 91.2024 86.32458) (width 0.508) (layer F.Cu) (net 7))
   (segment (start 90.71864 87.86622) (end 90.71864 86.80834) (width 0.508) (layer F.Cu) (net 7))
+  (segment (start 104.02 91.67) (end 100.02 91.67) (width 0.254) (layer B.Cu) (net 8) (tstamp 61D5674F))
+  (segment (start 104 96.75) (end 100 96.75) (width 0.254) (layer B.Cu) (net 8))
   (via (at 84.79 88.56) (size 0.6) (drill 0.3) (layers F.Cu B.Cu) (net 8) (tstamp 61D5029D))
   (via (at 85.43 88.56) (size 0.6) (drill 0.3) (layers F.Cu B.Cu) (net 8) (tstamp 61D5029D))
   (via (at 85.43 87.89) (size 0.6) (drill 0.3) (layers F.Cu B.Cu) (net 8) (tstamp 61D5027C))
